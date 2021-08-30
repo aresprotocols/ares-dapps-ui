@@ -16,6 +16,11 @@ You can start the ares-dapps-ui in development mode to connect to a locally runn
 ```bash
 yarn start
 ```
+You can lint the project before commit
+
+```bash
+yarn lint
+```
 
 You can also  build the app in production mode,
 
